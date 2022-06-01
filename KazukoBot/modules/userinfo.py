@@ -298,7 +298,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' [<a href="https://t.me/Phoenix_Empire/93">?</a>]'.format(
+        text += ' [<a href="https://t.me/tezzabotlogs/397">?</a>]'.format(
             bot.username)
 
     try:
@@ -412,7 +412,7 @@ def set_about_me(update: Update, context: CallbackContext):
 @run_async
 @sudo_plus
 def stats(update: Update, context: CallbackContext):
-    stats = "<b>❟✿❟Current stats of Kazuko❟✿❟</b>\n" + "\n".join([mod.__stats__() for mod in STATS])
+    stats = "<b>❟✿❟Current stats of Tezza❟✿❟</b>\n" + "\n".join([mod.__stats__() for mod in STATS])
     result = re.sub(r"(\d+)", r"<code>\1</code>", stats)
     update.effective_message.reply_text(result, parse_mode=ParseMode.HTML)
 
