@@ -75,9 +75,9 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 ────「 Tezza Robot 」────
-*Hᴇʟʟᴏ ɪ'ᴍ ᴛᴇᴢᴢᴀ*   
-✪ *I'ᴍ ᴘᴏᴡᴇʀғᴜʟ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ 🔥*
-✪ *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
+Hᴇʟʟᴏ ɪ'ᴍ ᴛᴇᴢᴢᴀ   
+✪ I'ᴍ ᴘᴏᴡᴇʀғᴜʟ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ [🔥](https://telegra.ph/file/a8cc05eb6490cf23a57aa.jpg)
+✪ I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!
 ───────────────────────
 I have lots of handy features such as:
 ‣ Warning system
@@ -87,7 +87,7 @@ I have lots of handy features such as:
 ‣ Filters keeping system
 ‣ Approvals and much more.
 ───────────────────────
-➛ᴛʀʏ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇs[.](https://telegra.ph/file/aea0efe28420d9d1f6177.jpg)
+➛ᴛʀʏ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪ
 """
 buttons = [
     [
@@ -116,7 +116,7 @@ Main commands available:
  Click on the buttons below to get documentation about specific modules!
 """
 
-KAZUKO_IMG = "https://te.legra.ph/file/e520067ac3c691abfe07d.jpg"
+KAZUKO_IMG = "https://telegra.ph/file/9c3b714fda09d8ff67e1f.jpg"
 
 DONATE_STRING =  """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/heyaaman) or by contacting @heyaaman \
